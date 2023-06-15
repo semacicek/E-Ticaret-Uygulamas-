@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/E-Ticaret-Uygulamas-.iml" filepath="$PROJECT_DIR$/.idea/E-Ticaret-Uygulamas-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scicek.iml" filepath="$PROJECT_DIR$/.idea/scicek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scicek.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scicek.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scicek.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scicek.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scicek.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scicek.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scicek.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scicek.app.unitTest.iml" />
     </modules>
   </component>
 </project>
